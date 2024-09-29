@@ -1,2 +1,4 @@
+import { DatabaseSync } from "node:sqlite"
+
 // List all databases
-show dbs
+show DatabaseSync
